@@ -1,0 +1,23 @@
+{
+  "personalCRA": [
+    {
+      "nombre": "María Elena Torres",
+      "cargo": "Coordinadora CRA",
+      "imagen": "/assets/images/encargado-01.png",
+      "alt": "María Elena Torres"
+    },
+    {
+      "nombre": "Carmen Valenzuela",
+      "cargo": "Asistente Biblioteca",
+      "imagen": "/assets/images/encargado-02.png",
+      "alt": "Carmen Valenzuela"
+
+    },
+    {
+      "nombre": "Patricia Morales",
+      "cargo": "Encargada Recursos Digitales",
+      "imagen": "/assets/images/encargado-03.png",
+      "alt": "Patricia Morales"
+    }
+  ]
+}

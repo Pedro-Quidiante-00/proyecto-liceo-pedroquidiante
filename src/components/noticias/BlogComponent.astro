@@ -1,0 +1,32 @@
+---
+import noticiasBlog from '../../data/noticias.json';
+const {noticias} = noticiasBlog;
+interface Props {
+    titulo: string;
+}
+const{titulo}=Astro.props
+---
+<section class="py-16 px-8">
+    <div class="max-w-6xl mx-auto">
+        <div class="text-center mb-16">
+            <h2 class="titulos-gen">{titulo}</h2>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            {noticias.map(Pnoticias => (
+                    <div class="bg-white rounded-2xl shadow-lg overflow-hidden flex flex-col">
+                        <div class="w-48 h-48 overflow-hidden rounded-full mx-auto">
+                            <img src={Pnoticias.imagen} alt={Pnoticias.alt_imagen} class="w-full h-full object-cover" />
+                        </div>
+                        <div class="p-6 flex-grow">
+                            <p class="text-red-600 text-sm font-semibold mb-2">{Pnoticias.categoria}</p>
+                            <h3 class="text-2xl font-bold text-black mb-3">{Pnoticias.titulo}</h3>
+                            <p class="text-gray-700 leading-relaxed mb-4">{Pnoticias.subtitulo}</p>
+                        </div>
+                        <div class="p-6 pt-0">
+                            <a href={Pnoticias.enlace} class="text-red-600 font-bold hover:text-red-700 transition-all hover:underline">Leer Más →</a>
+                        </div>
+                    </div>
+            ))}
+        </div>
+    </div>
+</section>

@@ -1,6 +1,8 @@
 ---
 import {Image} from "astro:assets";
-import imgOrigenes from "../../assets/images/bg-img-00.png";
+import historia001 from "../../assets/images/historia-001.png";
+import historia002 from "../../assets/images/historia-002.png";
+import historia003 from "../../assets/images/historia-003.png";
 interface Props {
     titulo: string;
     texto: string;
@@ -21,7 +23,7 @@ const {titulo, texto, titulo1, texto1, titulo2, texto2} = Astro.props
 
             <div class="lg:w-1/2">
                 <div class="w-full h-96 rounded-2xl border-2 border-red-600 flex items-center justify-center overflow-hidden shadow-lg">
-                    <Image src={imgOrigenes} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
+                    <Image src={historia001} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
                 </div>
             </div>
         </div>
@@ -36,7 +38,7 @@ const {titulo, texto, titulo1, texto1, titulo2, texto2} = Astro.props
             </div>
             <div class="lg:w-1/2">
                 <div class="w-full h-96 rounded-2xl border-2 border-red-600 flex items-center justify-center overflow-hidden shadow-lg">
-                    <Image src={imgOrigenes} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
+                    <Image src={historia002} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
                 </div>
             </div>
         </div>
@@ -52,7 +54,7 @@ const {titulo, texto, titulo1, texto1, titulo2, texto2} = Astro.props
             </div>
             <div class="lg:w-1/2">
                 <div class="w-full h-96 rounded-2xl border-2 border-red-600 flex items-center justify-center overflow-hidden shadow-lg">
-                    <Image src={imgOrigenes} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
+                    <Image src={historia003} alt="Vista de los orígenes del liceo" class="w-full h-full object-cover" />
                 </div>
             </div>
         </div>

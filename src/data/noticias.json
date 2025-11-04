@@ -1,0 +1,96 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Nuevo Taller de Teatro Musical",
+      "subtitulo": "Nuestros estudiantes de 3er año exploran el West End en un nuevo montaje intensivo...",
+      "imagen": "/assets/images/articulo-001.png",
+      "alt_imagen": "Estudiantes en taller de teatro",
+      "categoria": "Eventos",
+      "contenido": "<p>¡El telón se levanta para una nueva aventura! El Departamento de Artes Escénicas se enorgullece en anunciar el Taller de Teatro Musical de este semestre, centrado en los grandes éxitos del West End. Esta es una oportunidad de oro para que nuestros estudiantes de 3er año fusionen las tres disciplinas clave del teatro musical: canto, baile y actuación, en un entorno de alta exigencia.</p><p>El taller será dirigido por la aclamada directora invitada, Sra. Ana Rojas, conocida por sus montajes en la escena nacional. 'Estoy increíblemente entusiasmada de trabajar con el talento de este liceo', comentó Rojas. 'Exploraremos escenas icónicas de musicales como 'Les Misérables' y 'Wicked', enfocándonos no solo en la técnica vocal, sino en la capacidad de contar una historia a través de la música'.</p><p>El montaje intensivo se desarrollará durante seis semanas, comenzando el próximo 15 de noviembre. Las sesiones se llevarán a cabo en el Salón de Actos, que será adaptado para la ocasión. El taller culminará con una presentación abierta a toda la comunidad educativa el 22 de diciembre a las 19:00 hrs. ¡No se lo pueden perder!</p>",
+      "enlace": "/blog/taller-teatro"
+    },
+    {
+      "id": 2,
+      "titulo": "Exposición Anual de Grabado",
+      "subtitulo": "La generación 2025 presenta sus trabajos finales en la galería de la ciudad...",
+      "imagen": "/assets/images/articulo-002.png",
+      "alt_imagen": "Exposición de arte",
+      "categoria": "Artes Visuales",
+      "contenido": "<p>La Galería de Arte de la Ciudad se viste de gala para recibir la Exposición Anual de Grabado de la generación 2025 de nuestro liceo. Esta muestra es la culminación de un año de arduo trabajo, investigación y una profunda experimentación con técnicas tradicionales y contemporáneas, incluyendo la xilografía, el aguafuerte, la litografía y la punta seca.</p><p>Bajo la tutela del profesor Ricardo Montes, los estudiantes han desarrollado un lenguaje visual propio, abordando temáticas que van desde lo introspectivo hasta la crítica social. 'Ver sus planchas terminadas y las primeras impresiones es un orgullo', señaló el profesor Montes. 'Cada obra cuenta una historia de paciencia y descubrimiento'.</p><p>Invitamos a toda la comunidad educativa y al público general a visitar esta impresionante muestra de talento. La exposición estará abierta al público desde el 15 de noviembre hasta el 5 de diciembre, de martes a sábado, en la sala principal de la galería, ubicada en el centro cívico de la ciudad. La entrada es liberada.</p>",
+      "enlace": "/blog/expo-grabado"
+    },
+    {
+      "id": 3,
+      "titulo": "Gira de la Orquesta de Cámara",
+      "subtitulo": "El ensamble del liceo inicia su gira por el sur del país, llevando la música clásica...",
+      "imagen": "/assets/images/articulo-003.png",
+      "alt_imagen": "Orquesta de cámara",
+      "categoria": "Música",
+      "contenido": "<p>Nuestra talentosa Orquesta de Cámara del liceo afina sus instrumentos para un viaje inolvidable. Este mes, inician su Gira de Invierno 2025, un recorrido que los llevará por diversas ciudades y comunidades del sur del país, con el objetivo de llevar la música clásica a nuevas audiencias y compartir su pasión.</p><p>Bajo la batuta del profesor Esteban Salas, el ensamble de 25 músicos presentará un repertorio desafiante y emotivo, que incluye piezas de Mozart, Vivaldi, junto a obras de compositores chilenos contemporáneos. 'Es una experiencia formativa invaluable', destacó Salas. 'No solo crecen como músicos, sino como embajadores culturales de nuestro liceo'.</p><p>La gira comenzará el 10 de noviembre en Valdivia, continuando por Osorno y Puerto Varas, con presentaciones en teatros municipales y escuelas locales. ¡Les deseamos el mayor de los éxitos a nuestros estudiantes en esta importante misión cultural!</p>",
+      "enlace": "/blog/gira-orquesta"
+    },
+    {
+      "id": 4,
+      "titulo": "Concurso Anual de Pintura Mural",
+      "subtitulo": "Los estudiantes de Artes Visuales transforman los muros del patio principal con sus creaciones...",
+      "imagen": "/assets/images/articulo-004.png",
+      "alt_imagen": "Estudiante pintando un mural",
+      "categoria": "Artes Visuales",
+      "contenido": "<p>¡Nuestros muros grises están cobrando vida! Ha comenzado la octava versión del Concurso Anual de Pintura Mural, y los estudiantes de Artes Visuales ya están desplegando todo su talento en el patio principal. Brochas, andamios y cientos de colores están transformando el paisaje de nuestro liceo.</p><p>El lema de este año es 'Raíces y Futuro: Tejiendo Nuestra Identidad'. Los equipos, compuestos por estudiantes de 2do a 4to medio, tienen la misión de interpretar este concepto y plasmarlo en un diseño original a gran escala. Este evento no solo embellece nuestro espacio, sino que fomfomenta el trabajo en equipo, la planificación y la expresión creativa en un formato público.</p><p>El jurado, compuesto por profesores del departamento de arte, artistas locales invitados y representantes del centro de alumnos, tendrá la difícil tarea de elegir al ganador. El anuncio se realizará el próximo viernes 28 de noviembre durante el acto cívico de la mañana. ¡Invitamos a todos a pasar por el patio y ver el increíble proceso creativo en acción!</p>",
+      "enlace": "/blog/concurso-mural"
+    },
+    {
+      "id": 5,
+      "titulo": "Taller de Poesía y 'Slam' Poético",
+      "subtitulo": "Invitamos a toda la comunidad a participar en el primer encuentro de poesía escénica del liceo...",
+      "imagen": "/assets/images/articulo-005.png",
+      "alt_imagen": "Estudiante recitando poesía en micrófono",
+      "categoria": "Literatura",
+      "contenido": "<p>¿Las palabras pueden ser un espectáculo? ¿Puede un poema hacer vibrar una sala? ¡Claro que sí! El departamento de Lenguaje y Comunicación tiene el agrado de invitar a todos los estudiantes, apoderados y profesores al primer Taller y 'Slam' Poético del liceo.</p><p>El 'Poetry Slam' es una forma de poesía escénica donde los autores interpretan sus propios textos con fuerza, ritmo y emoción, siendo el público quien evalúa las presentaciones. Es una plataforma vibrante para la autoexpresión, la creatividad y la conexión comunitaria. El taller busca entregar las herramientas básicas para escribir y presentar un texto en este formato.</p><p>No es necesario tener experiencia previa, solo ganas de expresarse y jugar con las palabras. El taller se realizará el martes 18 de noviembre a las 16:00 hrs en la biblioteca (CRA), y culminará con un 'Slam' abierto a todo público el viernes 21 en el auditorio. Las inscripciones son gratuitas y están abiertas en la oficina de CRA.</p>",
+      "enlace": "/blog/poetry-slam"
+    },
+    {
+      "id": 6,
+      "titulo": "Clase Magistral de Batería Jazz",
+      "subtitulo": "El reconocido músico nacional, Félix Herrera, comparte sus técnicas con los estudiantes de música...",
+      "imagen": "/assets/images/articulo-006.png",
+      "alt_imagen": "Baterista dando una clase magistral",
+      "categoria": "Música",
+      "contenido": "<p>Tendremos un invitado de lujo en el auditorio. El reconocido baterista de jazz y músico nacional, Félix Herrera, visitará nuestro liceo para ofrecer una Clase Magistral exclusiva. Herrera, conocido por su innovador enfoque que fusiona el jazz con ritmos latinoamericanos, ha sido galardonado en múltiples ocasiones y ha girado por Europa y Asia.</p><p>Esta es una oportunidad imperdible para nuestros estudiantes de música. Durante la clase, Herrera compartirá sus técnicas avanzadas de improvisación, 'groove', polirritmia y su filosofía sobre la musicalidad y la escucha activa dentro de un ensamble. 'El ritmo es el corazón de todo', suele decir Herrera, 'y estoy ansioso por compartir mi enfoque con la próxima generación de músicos'.</p><p>La clase se realizará el miércoles 22 de noviembre a las 11:00 hrs en el salón de música principal. Si bien está dirigida a los estudiantes del electivo de música, se abrirán 20 cupos adicionales para otros estudiantes interesados. Las inscripciones se deben realizar con el profesor de música.</p>",
+      "enlace": "/blog/clase-bateria"
+    }
+  ],
+  "noticiasPrincipales": [
+    {
+      "id": 1,
+      "titulo": "Nuevo Taller de Teatro Musical",
+      "subtitulo": "Nuestros estudiantes de 3er año exploran el West End en un nuevo montaje intensivo...",
+      "imagen": "../assets/images/articulo-001.png",
+      "alt_imagen": "Estudiantes en taller de teatro",
+      "categoria": "Eventos",
+      "contenido": "<p>Este es el párrafo 1 del artículo sobre el taller.</p><p>Este es el párrafo 2, aquí explicamos más detalles sobre el evento, las fechas y los profesores.</p>",
+      "enlace": "/blog/taller-teatro"
+    },
+    {
+      "id": 2,
+      "titulo": "Exposición Anual de Grabado",
+      "subtitulo": "La generación 2025 presenta sus trabajos finales en la galería de la ciudad...",
+      "imagen": "../assets/images/articulo-002.png",
+      "alt_imagen": "Exposición de arte",
+      "categoria": "Artes Visuales",
+      "contenido": "<p>Este es el párrafo 1 del artículo sobre el taller.</p><p>Este es el párrafo 2, aquí explicamos más detalles sobre el evento, las fechas y los profesores.</p>",
+      "enlace": "/blog/expo-grabado"
+    },
+    {
+      "id": 3,
+      "titulo": "Gira de la Orquesta de Cámara",
+      "subtitulo": "El ensamble del liceo inicia su gira por el sur del país, llevando la música clásica...",
+      "imagen": "../assets/images/articulo-003.png",
+      "alt_imagen": "Orquesta de cámara",
+      "categoria": "Música",
+      "contenido": "<p>Este es el párrafo 1 del artículo sobre el taller.</p><p>Este es el párrafo 2, aquí explicamos más detalles sobre el evento, las fechas y los profesores.</p>",
+      "enlace": "/blog/gira-orquesta"
+    }
+  ]
+}
